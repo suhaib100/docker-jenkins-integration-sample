@@ -10,4 +10,6 @@ public class DockerGenkinsIntegrationSampleApplication {
 		SpringApplication.run(DockerGenkinsIntegrationSampleApplication.class, args);
 	}
 
+	// comment
+
 }
